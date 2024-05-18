@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 import Preprocess
-import KnowST
+import KING
 import torch
 
 save_path = r"saved_dict\0.9191.ckpt"
