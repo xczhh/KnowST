@@ -4,7 +4,7 @@
 import hp_config
 import numpy as np
 import Preprocess
-import KnowST
+import KING
 import os
 import torch
 from train_eval_step import *
