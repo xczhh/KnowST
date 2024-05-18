@@ -4,7 +4,7 @@ import Preprocess
 from sklearn.datasets import load_iris,load_digits
 from sklearn.decomposition import PCA
 import matplotlib.pyplot as plt
-import KnowST
+import KING
 import os
 import numpy as np
 
