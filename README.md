@@ -12,7 +12,7 @@ This section describes the installation process based on pytoch.
 # Running scripts
 python main.py
 
-# examples data and trained model
+# Examples data and trained model
 Post processing data and trained model displayed in example_data.txt and traied_model.rar
 
 # Data availability
