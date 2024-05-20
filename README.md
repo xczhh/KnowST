@@ -13,7 +13,7 @@ This section describes the installation process based on pytoch.
 python main.py
 
 # examples data and trained model
-Post processing data and trained model displayed in folder "Examples"
+Post processing data and trained model displayed in example_data.txt and traied_model.rar
 
 # Data availability
 Although the data is a private dataset of the hospital, the corresponding author will provide the original data for research purposes upon reasonable request. 
