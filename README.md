@@ -1,12 +1,12 @@
-# KING
-The code of KING, which is designed for clinical staging of liver cancer based on CNLC.
+# KnowST
+The code of  KnowST, which is designed for clinical staging of liver cancer based on CNLC.
 
 # Installation
 This section describes the installation process based on pytoch. 
 1. You need to install the necessary requirements.
 2. Our running environment is an single RTX 1060. The CUDA version is 10.2
 3. We provide the installation process briefly as follows:
-   conda create -n KING python==3.7
+   conda create -n  KnowST python==3.7
    pip install -r requirements.txt
 
 # Running scripts
