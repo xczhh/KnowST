@@ -1,5 +1,5 @@
 # KnowST
-The code of  KnowST, which is designed for clinical staging of liver cancer based on CNLC.
+The code of KnowST, which is designed for clinical staging of liver cancer based on CNLC.
 
 # Installation
 This section describes the installation process based on pytoch. 
