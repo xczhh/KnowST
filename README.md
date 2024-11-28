@@ -15,6 +15,9 @@ python main.py
 # Examples data and trained model
 Post processing data and trained model displayed in example_data.txt and traied_model.rar
 
+# Supplementary material
+The necessary figures are provided as supplementary materials to the paper.
+
 # Data availability
 Although the data is a private dataset of the hospital, the corresponding author will provide the original data for research purposes upon reasonable request. 
 Please apply for original data from our corresponding author for your research 😊.
